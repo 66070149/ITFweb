@@ -1,11 +1,13 @@
 h1{
-    font-size: 200px;
-    color: blue;
+    font-size: 30px;
+    color: rgb(231, 85, 0);
+    text-align: center;
 }
 
 .red{
-    font-size: 120px;
-    color: red;
+    font-size: 25px;
+    color: rgb(79, 119, 33);
+    text-align: center;
 }
 
 #first{
@@ -16,10 +18,28 @@ h1{
 }
 
 #third{
-    font-size: 64px;
+    font-size: 100px;
+    padding: 10px 10px;
 }
 
 .container{
-    border: 10px black;
-    padding: 20px;
+    border: 5px black solid;
+    background-color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+.picture_con{
+    border: transparent;
+    padding: 30px;
+    text-align: center;
+}
+
+.picture{
+    width: 500px;
+    height: 350px;
+}
+
+body{
+    background-image: url(Autumn.jpg);
 }
