@@ -1,0 +1,25 @@
+h1{
+    font-size: 200px;
+    color: blue;
+}
+
+.red{
+    font-size: 120px;
+    color: red;
+}
+
+#first{
+    display: inline-block;
+    border: 2px solid blue;
+    padding: 30px 10px;
+    margin: 100px 0px;
+}
+
+#third{
+    font-size: 64px;
+}
+
+.container{
+    border: 10px black;
+    padding: 20px;
+}
